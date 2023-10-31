@@ -1,0 +1,9 @@
+public enum Typ {
+    AMAZONKA,
+    ZABOJCZYNI,
+    NEKROMANTA,
+    BARBARZYNCA,
+    PALADYN,
+    CZARODZIEJKA,
+    DRUID
+}
